@@ -1,7 +1,7 @@
 # dashBoard_KPIS3_produccion
 ## KPIS-producción
 
-https://datastudio.google.com/s/ueRVw1uerNw
+https://datastudio.google.com/s/sHPBFuVeCtg
 
 El enlace anterior muestra un informe, en un período de un mes, sobre tres indicadores clave de producción de una empresa envasadora de alimentos de origen animal. Estos indicadores son:
 
