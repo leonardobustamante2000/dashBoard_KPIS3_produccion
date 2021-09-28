@@ -14,15 +14,16 @@ El enlace anterior muestra un informe, en un período de un mes, sobre tres indi
 ### Sobrepeso: 
   Es la cantidad de materia prima que sobrepasa el peso definido para un artículo.
 
-## Objetivos.
 
-### Velocidad de producción: 
+## Objetivos.
+  Son los valores ideales que deben alcanzar los indicadores.
+  ### Velocidad de producción: 
   100% significa alcanzar el objetivo de unidades producidas por hora
 
-### Merma: 
+  ### Merma: 
   0%, significa desperdiciar la materia prima prevista o merma objetivo. 
 
-### Sobrepeso: 
+  ### Sobrepeso: 
   0%, significa sobrepasarse, en el peso definido en la fabricación de un artículo, los kg previstos o sobrepeso objetivo.
 
 
