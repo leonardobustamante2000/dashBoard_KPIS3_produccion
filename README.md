@@ -20,10 +20,10 @@ El enlace anterior muestra un informe, en un período de un mes, sobre tres indi
   100% significa alcanzar el objetivo de unidades producidas por hora
 
 ### Merma: 
-  0%, significa no desperdiciar materia prima. 
+  0%, significa desperdiciar la materia prima prevista o merma objetivo. 
 
 ### Sobrepeso: 
-  0%, significa no sobrepasarse en el peso definido en la fabricación de un artículo.
+  0%, significa sobrepasarse, en el peso definido en la fabricación de un artículo, los kg previstos o sobrepeso objetivo.
 
 
 # Página 1
